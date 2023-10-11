@@ -57,4 +57,3 @@ Bem-vindo ao repositório dedicado à Inteligência Artificial (IA). Aqui, você
 ## Contribuições
 
 Sinta-se à vontade para contribuir com este repositório, seja adicionando novos recursos, atualizando informações ou corrigindo possíveis erros. Sua contribuição é valiosa!
-
